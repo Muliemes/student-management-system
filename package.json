@@ -129,6 +129,7 @@
     "yargs": "^6.3.0"
   },
   "devDependencies": {
+    "@redux-devtools/core": "^3.11.0",
     "babel-eslint": "^7.1.0",
     "babel-plugin-istanbul": "^3.0.0",
     "chai": "^3.4.1",
@@ -156,6 +157,9 @@
     "phantomjs-prebuilt": "^2.1.12",
     "react-addons-test-utils": "^15.0.0",
     "redbox-react": "^1.2.10",
+    "redux-devtools": "^3.7.0",
+    "redux-devtools-dock-monitor": "^1.2.0",
+    "redux-devtools-log-monitor": "^2.1.0",
     "sinon": "^1.17.5",
     "sinon-chai": "^2.8.0",
     "webpack-dev-middleware": "^1.6.1",
